@@ -1,0 +1,15 @@
+{
+    "name": "07-bull-mq",
+    "version": "1.0.0",
+    "description": "**Video:** [What are Message Queues? | BullMQ Queues NodeJS](http://www.youtube.com/watch?v=yXPKB7fHxfo)   **Channel:** Piyush Garg",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "type": "commonjs",
+    "dependencies": {
+      "bullmq": "^6.7.10"
+    }
+  }
+  

@@ -1,3 +1,4 @@
+// consumer
 import {Worker} from 'bullmq'
 import { connection } from './queue.js'
 
